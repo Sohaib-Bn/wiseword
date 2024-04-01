@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "date": "2023-12-03T12:29:50.746Z",
+      "notes": "",
+      "emoji": "🇵🇹",
+      "position": {
+        "lat": "38.704663757845296",
+        "lng": "-9.13509976113339"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "date": "2023-12-03T12:30:13.322Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "40.39549126939445",
+        "lng": "-3.6731455474415613"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Algiers",
+      "country": "Algeria",
+      "date": "2023-12-03T12:30:18.136Z",
+      "notes": "",
+      "emoji": "🇩🇿",
+      "position": {
+        "lat": "36.75329936107244",
+        "lng": "3.1157366973278444"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "date": "2023-12-04T07:13:24.510Z",
+      "notes": "",
+      "emoji": "🇩🇪",
+      "position": {
+        "lat": "52.532877870747164",
+        "lng": "13.525870658752373"
+      },
+      "id": 4
+    }
+  ]
+}
